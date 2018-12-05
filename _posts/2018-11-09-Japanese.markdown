@@ -1,34 +1,29 @@
 ---
+bg: antguo2.jpg
 layout: post
-title:  "Japanese"
-crawlertitle: "About my Japanese"
-summary: "I like Japanese"
-date:   2016-06-28 23:09:47 +0700
+title:  "日本語"
+crawlertitle: "日本語のメモ"
+summary: "日本語が大好き"
+date:   2018-12-05 10:27:47 +0700
 categories: posts
-tags: 'Japanese'
+tags: '日本語'
 author: guowj
 ---
-Here is Japanese detail.
+こちらは日本語のメモです.
 
+###### ようこそ私のブログへ
+私は郭文君と申します。私は日本語が好きですから日本語を勉強しましだ、日本語のレベルはまだまだ上手でわないですけど、これからも勉強を続ける頑張ります。以上、ありがどございましだ。
 
-<!--
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<center>
+<img src="/assets/images/JP-1.jpg" width="400px" height="400px">
+<span style="color:pink">❤❤❤</span>
+</center>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
--->
+- 初心忘れるべからず
+- 光陰矢のごとし
+- 備えあれば、憂いなし
+- 塵も積もれば山になる
+- ことここにいたっては
+- 三十にして立つ
+- スモモもももももものうち
+- 愛は毒、飲んだら死ぬ
